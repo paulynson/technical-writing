@@ -29,7 +29,7 @@ GET /products?page=1&limit=20
 
 The search feature triggers an API request on every keystroke.
 
-#Current Behaviour
+# Current Behaviour
 
 
 "P"      → Request
